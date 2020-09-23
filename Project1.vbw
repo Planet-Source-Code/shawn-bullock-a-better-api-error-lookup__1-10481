@@ -1,0 +1,4 @@
+frmMain = 0, 0, 800, 649, , 1, 1, 603, 447, C
+basMain = 0, 0, 0, 0, C
+basAPI = 0, 0, 800, 649, C
+basErrorFilter = 0, 0, 800, 649, CI
